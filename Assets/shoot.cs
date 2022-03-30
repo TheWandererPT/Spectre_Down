@@ -4,18 +4,30 @@ using UnityEngine;
 
 public class shoot : MonoBehaviour
 {
+    //public InputController inputController;
 
-    
+    private Camera mainCamera;
+
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        mainCamera = Camera.main;
     }
 
     // Update is called once per frame
     void Update()
     {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        
+    }
+ 
+    private void OnShoot()
+    {
+        ShootRaycast();
+    }
+
+    private void ShootRaycast()
+    {
+        Ray ray=Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
         bool hasHitSomething = Physics.Raycast(ray, out hit, 100f);
 
@@ -23,7 +35,10 @@ public class shoot : MonoBehaviour
         {
             Debug.Log(hit.transform.name);
         }
-    }
 
-    private void 
+    }
+    
+        
+    
+
 }

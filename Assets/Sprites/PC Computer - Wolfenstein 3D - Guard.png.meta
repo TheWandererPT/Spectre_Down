@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: e25d4938fd226a04e91b63839d234f73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7083839751012198575
+    second: PC Computer - Wolfenstein 3D - Guard_0
+  - first:
+      213: -5871864903733761669
+    second: PC Computer - Wolfenstein 3D - Guard_1
+  - first:
+      213: -5538508075308461615
+    second: PC Computer - Wolfenstein 3D - Guard_2
+  - first:
+      213: 7300719586154420254
+    second: PC Computer - Wolfenstein 3D - Guard_3
+  - first:
+      213: 711361244611185948
+    second: PC Computer - Wolfenstein 3D - Guard_4
+  - first:
+      213: -1741922761520463854
+    second: PC Computer - Wolfenstein 3D - Guard_5
+  - first:
+      213: 1303251549987364060
+    second: PC Computer - Wolfenstein 3D - Guard_6
+  - first:
+      213: -61810624618850098
+    second: PC Computer - Wolfenstein 3D - Guard_7
+  - first:
+      213: -7019195719111488044
+    second: PC Computer - Wolfenstein 3D - Guard_8
+  - first:
+      213: -833943608952086820
+    second: PC Computer - Wolfenstein 3D - Guard_9
+  - first:
+      213: -2022059066865601419
+    second: PC Computer - Wolfenstein 3D - Guard_10
+  - first:
+      213: -7201590972293063824
+    second: PC Computer - Wolfenstein 3D - Guard_11
+  - first:
+      213: 4125147604980214370
+    second: PC Computer - Wolfenstein 3D - Guard_12
+  - first:
+      213: 3463386283125159539
+    second: PC Computer - Wolfenstein 3D - Guard_13
+  - first:
+      213: -2876286176872199905
+    second: PC Computer - Wolfenstein 3D - Guard_14
+  - first:
+      213: -6465901925187450322
+    second: PC Computer - Wolfenstein 3D - Guard_15
+  - first:
+      213: -5950329067334708150
+    second: PC Computer - Wolfenstein 3D - Guard_16
+  - first:
+      213: 1267564922037014730
+    second: PC Computer - Wolfenstein 3D - Guard_17
+  - first:
+      213: -8613507711347519098
+    second: PC Computer - Wolfenstein 3D - Guard_18
+  - first:
+      213: -2577106206160552773
+    second: PC Computer - Wolfenstein 3D - Guard_19
+  - first:
+      213: -6001341931420442901
+    second: PC Computer - Wolfenstein 3D - Guard_20
+  - first:
+      213: 524242257012502982
+    second: PC Computer - Wolfenstein 3D - Guard_21
+  - first:
+      213: -3160062846623252822
+    second: PC Computer - Wolfenstein 3D - Guard_22
+  - first:
+      213: -3234224543191046729
+    second: PC Computer - Wolfenstein 3D - Guard_23
+  - first:
+      213: 1439540061070526319
+    second: PC Computer - Wolfenstein 3D - Guard_24
+  - first:
+      213: -6080372343608008669
+    second: PC Computer - Wolfenstein 3D - Guard_25
+  - first:
+      213: 8904752409843497478
+    second: PC Computer - Wolfenstein 3D - Guard_26
+  - first:
+      213: -5909850482054618397
+    second: PC Computer - Wolfenstein 3D - Guard_27
+  - first:
+      213: -3495335165435625912
+    second: PC Computer - Wolfenstein 3D - Guard_28
+  - first:
+      213: 3542039420489054998
+    second: PC Computer - Wolfenstein 3D - Guard_29
+  - first:
+      213: 98265290490918165
+    second: PC Computer - Wolfenstein 3D - Guard_30
+  - first:
+      213: 6890161264010456754
+    second: PC Computer - Wolfenstein 3D - Guard_31
+  - first:
+      213: 9171349241250576194
+    second: PC Computer - Wolfenstein 3D - Guard_32
+  - first:
+      213: -7145722262570579609
+    second: PC Computer - Wolfenstein 3D - Guard_33
+  - first:
+      213: 2885192796178143122
+    second: PC Computer - Wolfenstein 3D - Guard_34
+  - first:
+      213: 2799141665639816826
+    second: PC Computer - Wolfenstein 3D - Guard_35
+  - first:
+      213: 8334497258923442019
+    second: PC Computer - Wolfenstein 3D - Guard_36
+  - first:
+      213: 3901507172826718276
+    second: PC Computer - Wolfenstein 3D - Guard_37
+  - first:
+      213: -4427785682558584794
+    second: PC Computer - Wolfenstein 3D - Guard_38
+  - first:
+      213: -5733096035607319687
+    second: PC Computer - Wolfenstein 3D - Guard_39
+  - first:
+      213: 2263325985374326281
+    second: PC Computer - Wolfenstein 3D - Guard_40
+  - first:
+      213: -2909379362208686483
+    second: PC Computer - Wolfenstein 3D - Guard_41
+  - first:
+      213: -2559367671946640788
+    second: PC Computer - Wolfenstein 3D - Guard_42
+  - first:
+      213: 237497069320813913
+    second: PC Computer - Wolfenstein 3D - Guard_43
+  - first:
+      213: -1246133702746211662
+    second: PC Computer - Wolfenstein 3D - Guard_44
+  - first:
+      213: 7735490997866376119
+    second: PC Computer - Wolfenstein 3D - Guard_45
+  - first:
+      213: 446681066811383760
+    second: PC Computer - Wolfenstein 3D - Guard_46
+  - first:
+      213: -2631714516940429164
+    second: PC Computer - Wolfenstein 3D - Guard_47
+  - first:
+      213: 3126904487835640851
+    second: PC Computer - Wolfenstein 3D - Guard_48
+  - first:
+      213: 2909922747019631008
+    second: PC Computer - Wolfenstein 3D - Guard_49
+  - first:
+      213: -3667123373239208496
+    second: PC Computer - Wolfenstein 3D - Guard_50
+  - first:
+      213: -7547350974563506098
+    second: PC Computer - Wolfenstein 3D - Guard_51
+  - first:
+      213: 7367041553689245989
+    second: PC Computer - Wolfenstein 3D - Guard_52
+  - first:
+      213: 602226771303402612
+    second: PC Computer - Wolfenstein 3D - Guard_53
+  - first:
+      213: -2383450876799192579
+    second: PC Computer - Wolfenstein 3D - Guard_54
+  - first:
+      213: 8758511729076120570
+    second: PC Computer - Wolfenstein 3D - Guard_55
+  - first:
+      213: -3289292854621605459
+    second: PC Computer - Wolfenstein 3D - Guard_56
+  - first:
+      213: 2639319006473990203
+    second: PC Computer - Wolfenstein 3D - Guard_57
+  - first:
+      213: 2626847392986854998
+    second: PC Computer - Wolfenstein 3D - Guard_58
+  - first:
+      213: -9205934018384514697
+    second: PC Computer - Wolfenstein 3D - Guard_59
+  - first:
+      213: 1008791969875554962
+    second: PC Computer - Wolfenstein 3D - Guard_60
+  - first:
+      213: -4309214833518179308
+    second: PC Computer - Wolfenstein 3D - Guard_61
+  - first:
+      213: -4867112002620449028
+    second: PC Computer - Wolfenstein 3D - Guard_62
+  - first:
+      213: 5398466794217358995
+    second: PC Computer - Wolfenstein 3D - Guard_63
+  - first:
+      213: 7076083986992048314
+    second: PC Computer - Wolfenstein 3D - Guard_64
+  - first:
+      213: 684174164331313189
+    second: PC Computer - Wolfenstein 3D - Guard_65
+  - first:
+      213: 7707956693444299189
+    second: PC Computer - Wolfenstein 3D - Guard_66
+  - first:
+      213: -1449759117623864206
+    second: PC Computer - Wolfenstein 3D - Guard_67
+  - first:
+      213: -3699229167123747264
+    second: PC Computer - Wolfenstein 3D - Guard_68
+  - first:
+      213: -6748960992836916917
+    second: PC Computer - Wolfenstein 3D - Guard_69
+  - first:
+      213: 1253301928809660809
+    second: PC Computer - Wolfenstein 3D - Guard_70
+  - first:
+      213: -2311320124275103333
+    second: PC Computer - Wolfenstein 3D - Guard_71
+  - first:
+      213: 6167700095533028150
+    second: PC Computer - Wolfenstein 3D - Guard_72
+  - first:
+      213: -4517832363183442547
+    second: PC Computer - Wolfenstein 3D - Guard_73
+  - first:
+      213: -2103683589489530292
+    second: PC Computer - Wolfenstein 3D - Guard_74
+  - first:
+      213: -7001125450375577295
+    second: PC Computer - Wolfenstein 3D - Guard_75
+  - first:
+      213: 7640630438244752575
+    second: PC Computer - Wolfenstein 3D - Guard_76
+  - first:
+      213: 3734356848866030852
+    second: PC Computer - Wolfenstein 3D - Guard_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1949
+        width: 118
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157502b374521bd90800000000000000
+      internalID: -7083839751012198575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1949
+        width: 128
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79add30bf1f28ea0800000000000000
+      internalID: -5871864903733761669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1949
+        width: 128
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15b91ff344323b0800000000000000
+      internalID: -5538508075308461615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1949
+        width: 82
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18987168cd515560800000000000000
+      internalID: 7300719586154420254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1949
+        width: 108
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d870478434fd900800000000000000
+      internalID: 711361244611185948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_5
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1949
+        width: 89
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c76d3a7273d7e0800000000000000
+      internalID: -1741922761520463854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_6
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1949
+        width: 73
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc59f93164161210800000000000000
+      internalID: 1303251549987364060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_7
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1949
+        width: 88
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89f3c7097642ff0800000000000000
+      internalID: -61810624618850098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1623
+        width: 93
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddca69ceaec69e90800000000000000
+      internalID: -7019195719111488044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1623
+        width: 128
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde14b1c4bc3d64f0800000000000000
+      internalID: -833943608952086820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1623
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5743e94fdf330f3e0800000000000000
+      internalID: -2022059066865601419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_11
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1623
+        width: 133
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdfc69a2fce0c90800000000000000
+      internalID: -7201590972293063824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_12
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1623
+        width: 103
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a26e804e77f3930800000000000000
+      internalID: 4125147604980214370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_13
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1623
+        width: 128
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b2a5897b601030800000000000000
+      internalID: 3463386283125159539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_14
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1623
+        width: 142
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198a2b16f06518d0800000000000000
+      internalID: -2876286176872199905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_15
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1623
+        width: 113
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a00b4f4708446a0800000000000000
+      internalID: -6465901925187450322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1299
+        width: 118
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4455dc4d3f2c6da0800000000000000
+      internalID: -5950329067334708150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1299
+        width: 108
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac013cba49b479110800000000000000
+      internalID: 1267564922037014730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_18
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1299
+        width: 87
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811b037f5ca67880800000000000000
+      internalID: -8613507711347519098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_19
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1299
+        width: 77
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc78514f874c3cd0800000000000000
+      internalID: -2577106206160552773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1299
+        width: 108
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee17025f43f6bca0800000000000000
+      internalID: -6001341931420442901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_21
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1299
+        width: 84
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ba712e8b764700800000000000000
+      internalID: 524242257012502982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_22
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1299
+        width: 83
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7c1f65933524d0800000000000000
+      internalID: -3160062846623252822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_23
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1299
+        width: 113
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56f33e9e9bd13d0800000000000000
+      internalID: -3234224543191046729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 973
+        width: 93
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678d0cfe064af310800000000000000
+      internalID: 1439540061070526319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 973
+        width: 137
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320a225919d2e9ba0800000000000000
+      internalID: -6080372343608008669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 973
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a76892329049b70800000000000000
+      internalID: 8904752409843497478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 973
+        width: 108
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a67d5c4efbfda0800000000000000
+      internalID: -5909850482054618397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_28
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 973
+        width: 98
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3745af231e7fc0800000000000000
+      internalID: -3495335165435625912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_29
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 973
+        width: 109
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3eae161ad72130800000000000000
+      internalID: 3542039420489054998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_30
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 973
+        width: 147
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153675d2cb1d5100800000000000000
+      internalID: 98265290490918165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_31
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 973
+        width: 128
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beef7af925ce9f50800000000000000
+      internalID: 6890161264010456754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 648
+        width: 118
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f9c30b8d274f70800000000000000
+      internalID: 9171349241250576194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 648
+        width: 108
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76941eb367b45dc90800000000000000
+      internalID: -7145722262570579609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_34
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 648
+        width: 87
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d6bccf834a0820800000000000000
+      internalID: 2885192796178143122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_35
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 648
+        width: 77
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed470b38c88d620800000000000000
+      internalID: 2799141665639816826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_36
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 648
+        width: 108
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f399359151aa370800000000000000
+      internalID: 8334497258923442019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_37
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 648
+        width: 84
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a9f44a10f42630800000000000000
+      internalID: 3901507172826718276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_38
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 648
+        width: 83
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f88191685d82c0800000000000000
+      internalID: -4427785682558584794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_39
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 653
+        width: 113
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bec66e783ff60b0800000000000000
+      internalID: -5733096035607319687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_40
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 578
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec529fdf2f86f10800000000000000
+      internalID: 2263325985374326281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 578
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed2b672eecf97d0800000000000000
+      internalID: -2909379362208686483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 344
+        width: 117
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62800899ac4b7cd0800000000000000
+      internalID: -2559367671946640788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_43
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 554
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d30148352cb4300800000000000000
+      internalID: 237497069320813913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_44
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7b29eff7d4bee0800000000000000
+      internalID: -1246133702746211662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 324
+        width: 123
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbae03041cf95b60800000000000000
+      internalID: 7735490997866376119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 544
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5f2b401ee23600800000000000000
+      internalID: 446681066811383760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_47
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 554
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e68b17954a7bd0800000000000000
+      internalID: -2631714516940429164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_48
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 324
+        width: 138
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a40c801ff46b20800000000000000
+      internalID: 3126904487835640851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 534
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91feb225f126820800000000000000
+      internalID: 2909922747019631008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_50
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 534
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57b86a8b2cb1dc0800000000000000
+      internalID: -3667123373239208496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_51
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a1f5b64c624790800000000000000
+      internalID: -7547350974563506098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297035c24dfc3660800000000000000
+      internalID: 7367041553689245989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 524
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c05c9ce0a8b5800800000000000000
+      internalID: 602226771303402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_54
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 524
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17acc3e084ceed0800000000000000
+      internalID: -2383450876799192579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_55
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 529
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbaca4530c7c8970800000000000000
+      internalID: 8758511729076120570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_56
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 514
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da17c0e73951a52d0800000000000000
+      internalID: -3289292854621605459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_57
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 368
+        width: 172
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b1d517aeb0a420800000000000000
+      internalID: 2639319006473990203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_58
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 514
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656742a49cf647420800000000000000
+      internalID: 2626847392986854998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 504
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b18019c3fd3080800000000000000
+      internalID: -9205934018384514697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_60
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 498
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f2b8a3f2fffd00800000000000000
+      internalID: 1008791969875554962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_61
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 464
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0e4ba0f79234c0800000000000000
+      internalID: -4309214833518179308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_62
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 429
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe94c1bb6b847cb0800000000000000
+      internalID: -4867112002620449028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_63
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396411172f43bea40800000000000000
+      internalID: 5398466794217358995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_64
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 468
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ad7d35ec433260800000000000000
+      internalID: 7076083986992048314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_65
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 459
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528b77d07ccae7900800000000000000
+      internalID: 684174164331313189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_66
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 449
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b987d036c928fa60800000000000000
+      internalID: 7707956693444299189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_67
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 454
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274552083cb61ebe0800000000000000
+      internalID: -1449759117623864206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_68
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e23defba2b9acc0800000000000000
+      internalID: -3699229167123747264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_69
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 349
+        width: 179
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ecfa0cbfd652a0800000000000000
+      internalID: -6748960992836916917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_70
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 439
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810307c67f946110800000000000000
+      internalID: 1253301928809660809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_71
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 439
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ee56c79a8cefd0800000000000000
+      internalID: -2311320124275103333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_72
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 434
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633936b1f82189550800000000000000
+      internalID: 6167700095533028150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_73
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 349
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ffa5f66f6d41c0800000000000000
+      internalID: -4517832363183442547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_74
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 324
+        width: 223
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a68a0dbe63ec2e0800000000000000
+      internalID: -2103683589489530292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 143
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ca661f7107de90800000000000000
+      internalID: -7001125450375577295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_76
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 128
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc9d9bd6e8f80a60800000000000000
+      internalID: 7640630438244752575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Wolfenstein 3D - Guard_77
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 128
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f431c4c913d330800000000000000
+      internalID: 3734356848866030852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f42a977eebdeca44a63430d355858c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

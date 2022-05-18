@@ -1,8 +1,5 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
 using System.Collections;
-
-
 public class Gun : MonoBehaviour
 {
     public float damage = 10f;
@@ -16,7 +13,7 @@ public class Gun : MonoBehaviour
     private bool isReloading = false;
 
     public Camera fpsCam;
-    
+    public ParticleSystem muzzleFlash;
     public GameObject impactEffect;
 
     public Animator animator;
@@ -46,13 +43,11 @@ public class Gun : MonoBehaviour
             StartCoroutine(Reload());
             return; //This makes the code stop here and NOT fire the next bullet
         }
-
         if (Input.GetButton("Fire1") && Time.time >= nextTimeToFire)
         {
             nextTimeToFire = Time.time + 1f / fireRate;
             Shoot();
         }
-
         else
         {
             if (GetComponent<Animator>())
@@ -80,7 +75,7 @@ public class Gun : MonoBehaviour
     void Shoot()
     {
 
-        
+        muzzleFlash.Play();
 
         currentAmmo--;
         
@@ -88,7 +83,6 @@ public class Gun : MonoBehaviour
         RaycastHit hit;
         if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
         {
-            Debug.Log(hit.transform.name);
 
             Target target = hit.transform.GetComponent<Target>();
             if (target != null)
